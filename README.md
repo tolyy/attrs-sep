@@ -2,13 +2,13 @@
 
 ## Project chosen
 
-Name: <TODO>
+Name: ATTRS
 
-URL: <TODO>
+URL: https://github.com/python-attrs/attrs
 
-Number of lines of code and the tool used to count it: <TODO>
+Number of lines of code and the tool used to count it: 10.46 KLOC counted with Lizard
 
-Programming language: <TODO>
+Programming language: Python
 
 ## Coverage measurement
 
